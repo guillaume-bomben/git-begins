@@ -1,0 +1,7 @@
+cloner un repository :
+	git clone url
+
+commande pour push :
+	git add -A
+	git commit -m "commit texte"
+	git push -u origin main
