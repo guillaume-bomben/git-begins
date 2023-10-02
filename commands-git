@@ -8,3 +8,7 @@ commande pour push :
 
 commande pour pull :
 	git pull
+
+commande branch :
+	git branch add-create-branch-command
+	git checkout add-create-branch-command
